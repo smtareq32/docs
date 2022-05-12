@@ -1,4 +1,4 @@
----
+---docs/content/get-started/quickstart/index.md
 title: Quickstart
 intro: 'Get started using {% data variables.product.product_name %} to manage Git repositories and collaborate with others.'
 versions:
